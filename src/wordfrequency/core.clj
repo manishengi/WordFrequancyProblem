@@ -1,4 +1,4 @@
-(ns wordfrequancy.core 
+(ns wordfrequency.core 
 (:gen-class))
 
 (ns tokenize
